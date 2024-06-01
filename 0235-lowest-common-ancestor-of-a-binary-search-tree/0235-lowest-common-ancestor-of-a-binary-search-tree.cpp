@@ -19,18 +19,17 @@ public:
                return root;
             }
         }
-        if(root->left){
-            if(root->val > p->val && root->val > q->val){
-                TreeNode* l = lowestCommonAncestor(root->left,p,q);
-                if(l)return l;
-            }
+       
+        if(root->val > p->val && root->val > q->val){
+            TreeNode* l = lowestCommonAncestor(root->left,p,q);
+            if(l)return l;
         }
-        if(root->right){
-            if(root->val < p->val && root->val < q->val){
-                TreeNode* r = lowestCommonAncestor(root->right,p,q);
-                if(r)return r;
-            }
+     
+        if(root->val < p->val && root->val < q->val){
+            TreeNode* r = lowestCommonAncestor(root->right,p,q);
+            if(r)return r;
         }
+    
         return NULL;
         
     }
