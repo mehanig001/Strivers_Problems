@@ -22,6 +22,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Union Find
 |  |
 | ------- |
@@ -30,3 +31,11 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
+# Array
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
+# Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
