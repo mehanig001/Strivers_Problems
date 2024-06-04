@@ -21,6 +21,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Union Find
@@ -34,8 +35,14 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
