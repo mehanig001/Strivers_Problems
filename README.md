@@ -17,16 +17,19 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 # Graph
 |  |
@@ -35,11 +38,13 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 # Dynamic Programming
