@@ -1,39 +1,46 @@
 class Solution {
-private:
-    bool dfs(int i, vector<bool> &visited, vector<bool> &pathVisited, vector<bool> &isSafe, vector<vector<int>>& graph, int n){
-        visited[i] = 1;
-        pathVisited[i] = 1;
-        isSafe[i] = 0;
-
-        for(auto val : graph[i]){
-            if(!visited[val]){
-                if(dfs(val,visited,pathVisited,isSafe,graph,n))return true;
-            }
-            else if(pathVisited[val])return true;
-        }
-
-        pathVisited[i] = 0;
-        isSafe[i] = 1;
-        return false;
-    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        //Another aproach other than path visited and dfs
+        //Using topoSort
 
         int n = graph.size();
-        vector<bool> visited(n,0);
-        vector<bool> pathVisited(n,0);
-        vector<bool> isSafe(n,0);
-        
-        for(int i = 0 ; i < n; i++){
-            if(!visited[i]){
-                dfs(i,visited,pathVisited,isSafe,graph, n);
+        vector<int> adj[n];
+        //adding edges in reverse order
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < graph[i].size(); j++){
+                adj[graph[i][j]].push_back(i);
             }
         }
 
-        vector<int> ans;
+        vector<int> indegree(n);
         for(int i = 0; i < n; i++){
-            if(isSafe[i])ans.push_back(i);
+            for(auto val : adj[i]){
+                indegree[val]++;
+            }
         }
-        return ans;
+
+        queue<int> q;
+        vector<int> topo;
+
+        for(int i = 0; i < n; i++){
+            if(indegree[i] == 0){
+                q.push(i);
+            }
+        }
+
+        while(!q.empty()){
+            int tp = q.front();
+            q.pop();
+            topo.push_back(tp);
+            for(auto val : adj[tp]){
+                indegree[val]--;
+                if(indegree[val] == 0){
+                    q.push(val);
+                }
+            }
+        }
+        sort(topo.begin(), topo.end());
+        return topo;
     }
 };
