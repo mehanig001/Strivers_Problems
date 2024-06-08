@@ -6,6 +6,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 # Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 # Depth-First Search
 |  |
 | ------- |
@@ -25,6 +27,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
@@ -67,3 +70,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
+# Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
