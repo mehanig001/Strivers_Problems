@@ -56,6 +56,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mehanig001/Strivers_Problems/tree/master/1073-number-of-enclaves) |
+| [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
 # Matrix
 |  |
 | ------- |
@@ -80,3 +81,11 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
