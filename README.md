@@ -8,6 +8,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
 # Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mehanig001/Strivers_Problems/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
 # Matrix
 |  |
 | ------- |
@@ -85,7 +87,9 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
