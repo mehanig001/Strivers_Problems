@@ -26,6 +26,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mehanig001/Strivers_Problems/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/mehanig001/Strivers_Problems/tree/master/1300-critical-connections-in-a-network) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0210-course-schedule-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mehanig001/Strivers_Problems/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/mehanig001/Strivers_Problems/tree/master/1300-critical-connections-in-a-network) |
 # Array
 |  |
 | ------- |
@@ -93,3 +95,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [1137-height-checker](https://github.com/mehanig001/Strivers_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
+# Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/mehanig001/Strivers_Problems/tree/master/1300-critical-connections-in-a-network) |
