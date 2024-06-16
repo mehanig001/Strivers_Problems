@@ -18,6 +18,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/mehanig001/Strivers_Problems/tree/master/0131-palindrome-partitioning) |
 # Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/mehanig001/Strivers_Problems/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 # Topological Sort
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/mehanig001/Strivers_Problems/tree/master/0131-palindrome-partitioning) |
 # Prefix Sum
 |  |
 | ------- |
