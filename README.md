@@ -6,6 +6,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1217-relative-sort-array) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
@@ -83,6 +86,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 # Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mehanig001/Strivers_Problems/tree/master/0131-palindrome-partitioning) |
 # Prefix Sum
