@@ -13,6 +13,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0060-permutation-sequence) |
 # String
 |  |
 | ------- |
@@ -102,3 +103,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/mehanig001/Strivers_Problems/tree/master/1300-critical-connections-in-a-network) |
+# Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0060-permutation-sequence) |
