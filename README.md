@@ -58,6 +58,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/mehanig001/Strivers_Problems/tree/master/0051-n-queens) |
 | [0130-surrounded-regions](https://github.com/mehanig001/Strivers_Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mehanig001/Strivers_Problems/tree/master/0542-01-matrix) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/mehanig001/Strivers_Problems/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mehanig001/Strivers_Problems/tree/master/0131-palindrome-partitioning) |
 # Prefix Sum
