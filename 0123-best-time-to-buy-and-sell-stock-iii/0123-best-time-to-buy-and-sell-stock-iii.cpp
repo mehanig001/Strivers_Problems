@@ -20,23 +20,26 @@ public:
         //just like finding 1st maximum and second maximum 
         // return f(0,1,2,prices, dp);
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2, vector<int> (3,0)));
+        // vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2, vector<int> (3,0)));
+        vector<vector<int>> after(2, vector<int> (3,0));
+        vector<vector<int>> curr(2, vector<int> (3,0));
 
         for(int i = n-1; i >= 0; i--){
             for(int buy = 0; buy <= 1; buy++){
                 for(int cap = 2; cap > 0; cap--){
 
                     if(buy){
-                        dp[i][buy][cap] = max(dp[i+1][1][cap], -1*prices[i] + dp[i+1][0][cap]);
+                        curr[buy][cap] = max(after[1][cap], -1*prices[i] + after[0][cap]);
                     }
                     else{
-                        dp[i][buy][cap] = max(dp[i+1][0][cap], prices[i] + dp[i+1][1][cap-1]);
+                        curr[buy][cap] = max(after[0][cap], prices[i] + after[1][cap-1]);
                     }    
                 }
             }
+            after = curr;
         }
 
-        return dp[0][1][2];
+        return after[1][2];
         
     }
 
