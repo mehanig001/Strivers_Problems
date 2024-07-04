@@ -137,4 +137,16 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
