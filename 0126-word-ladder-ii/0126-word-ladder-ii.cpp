@@ -1,74 +1,76 @@
 class Solution {
 private:
-    void dfs(string curr, vector<string> &v, vector<vector<string>> &ans, string beginWord, map<string,int> &m){
-        int dis = m[curr];
-        if(curr == beginWord){
-            reverse(v.begin(), v.end());
-            ans.push_back(v);
-            reverse(v.begin(), v.end());
+    void dfs(map<string, int> &m, string beginWord, vector<vector<string>>&ans, vector<string> &curr){
+        string word = curr.back();
+
+        int lvl = m[word];
+        if(word == beginWord){
+            reverse(curr.begin(), curr.end());
+            ans.push_back(curr);
+            reverse(curr.begin(), curr.end());
             return;
-            
         }
-        for(int i = 0; i < curr.size(); i++){
-            char prev = curr[i];
+
+        for(int i = 0; i < word.size(); i++){
+            char prev = word[i];
             for(char ch = 'a'; ch <= 'z'; ch++){
-                curr[i] = ch;
-                if(m.find(curr) != m.end() && m[curr] == dis-1){
-                    v.push_back(curr);
-                    dfs(curr, v, ans, beginWord,m);
-                    v.pop_back();
+                word[i] = ch;
+                if(m.find(word) != m.end() &&  m[word] == lvl-1){
+                    curr.push_back(word);
+                    dfs(m,beginWord,ans,curr);
+                    curr.pop_back();
                 }
-                curr[i] = prev;
             }
+            word[i] = prev;
         }
+     
+
     }
 public:
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
-        //applying word ladder1 to find min steps to reach endWord but this time we will not time of occurance of each word in map
-        map<string,int> m;
-        queue<string> q;
-        unordered_set<string> unvisited(wordList.begin(), wordList.end());
+        
+        unordered_set<string> s(wordList.begin(), wordList.end());
+        queue<pair<string,int>> q;
+        map<string, int> m;
 
-        q.push(beginWord);
+        q.push({beginWord,0});
         m[beginWord] = 0;
-        unvisited.erase(beginWord);
-
-        int dis = 0;
-        int minDis = 1e9;
-
+        s.erase(beginWord);
+       
 
         while(!q.empty()){
-            string curr = q.front();
+            auto pr = q.front();
             q.pop();
-            if(curr == endWord){
-                minDis = dis;
-                break;
-            }
-            dis = m[curr];
-
-            for(char ch = 'a'; ch <= 'z'; ch++){
-                for(int i = 0; i < curr.size(); i++){
-                    char prev = curr[i];
-                    curr[i] = ch;
-                    if(unvisited.find(curr) != unvisited.end()){
-                        unvisited.erase(curr);
-                        q.push(curr);
-                        m[curr] = dis+1;
-                    }
-                    curr[i] = prev;
-                }
-            }
+            string curr = pr.first;
+            int lvl = pr.second;
+            m[curr] = lvl;
            
+            if(curr == endWord)break;
+
+            for(int i = 0; i < curr.size(); i++){
+                char prev = curr[i];
+                for(char ch = 'a'; ch <= 'z'; ch++){
+                    curr[i] = ch;
+                    if(s.count(curr) > 0){
+                        q.push({curr,lvl+1});
+                        s.erase(curr);
+                    }
+                }
+                curr[i] = prev;
+            }
+
         }
+            // for(auto pr:m){
+            
+            //     cout<<pr.first<<" "<<pr.second<<endl;
+                
+            // }
+            vector<vector<string>> ans;
+            vector<string> curr = {endWord};
 
-        cout<<minDis<<endl;
+            dfs(m,beginWord,ans,curr);
 
-        //backTrack in map from end to begin
-        vector<string> v;
-        v.push_back(endWord);
-        vector<vector<string>> ans;
-        dfs(endWord, v, ans, beginWord, m);
+            return ans;
 
-        return ans;
     }
 };
