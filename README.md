@@ -140,13 +140,20 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
