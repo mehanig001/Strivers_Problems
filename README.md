@@ -134,6 +134,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +163,12 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
