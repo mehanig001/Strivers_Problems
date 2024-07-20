@@ -1,0 +1,72 @@
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+        vector<int> leftSmaller(n);
+        vector<int> rightSmaller(n);
+
+        leftSmaller[0] = -1;
+        stack<int> st;
+        st.push(0);
+        for(int i = 1; i < n; i++){
+
+            while(!st.empty() && heights[st.top()] >= heights[i]){
+                st.pop();
+            }
+
+            if(st.empty()){
+                leftSmaller[i] = -1;
+            }
+            else{
+                leftSmaller[i] = st.top();
+            }
+            
+            st.push(i);
+        }
+
+        rightSmaller[n-1] = -1;
+        while(!st.empty())st.pop();
+
+        st.push(n-1);
+        for(int i = n-2; i >= 0; i--){
+            while(!st.empty() && heights[st.top()] >= heights[i]){
+                st.pop();
+            }
+
+            if(st.empty()){
+                rightSmaller[i] = -1;
+            }
+            else{
+                rightSmaller[i] = st.top();
+            }
+            
+            st.push(i);
+        }
+
+        for(auto val : leftSmaller)cout<<val<<" ";cout<<endl;
+        for(auto val : rightSmaller)cout<<val<<" ";cout<<endl;
+
+        // return 0;
+
+        for(int i=0;i<rightSmaller.size();i++){
+            if(rightSmaller[i] == -1){
+                rightSmaller[i] = rightSmaller.size();
+            }
+        }
+        int maxi = INT_MIN;
+        for(int i=0;i<heights.size();i++){
+            int h = heights[i];
+            int width = rightSmaller[i] - leftSmaller[i] - 1;
+            if(h*width > maxi){
+                maxi = h*width;
+            }
+        }
+
+        return maxi;
+
+
+
+       
+
+    }
+};
