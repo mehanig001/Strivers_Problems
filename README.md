@@ -188,6 +188,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -203,6 +204,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
