@@ -1,35 +1,45 @@
-#include<bits/stdc++.h>
-
 class MinStack {
-    stack<int> st;
-    stack<int> mini;
-    int minimum  = INT_MAX;
+
 public:
+    stack<long long> st;
+    long long min;
     MinStack() {
-        
+        min = LLONG_MAX;
     }
     
     void push(int val) {
-        if( mini.empty() || val <= mini.top()){
-            mini.push(val);
-            minimum = val;
+        long long x = (long long)val;
+        if(st.size() == 0){
+            st.push(x);
+            min = x;
         }
-        st.push(val);
+        else if(min <= x){
+            st.push(x);
+        }
+        else{
+            st.push(2*x - min);
+            min = x;
+        }
     }
     
     void pop() {
-        if(st.top() == mini.top()){
-            mini.pop();
+        if(st.top() < min){
+            long long oldMin = 2*min - st.top();
+            min = oldMin;
         }
         st.pop();
+        
     }
     
     int top() {
-        return st.top();
+        if(st.top() < min){
+            return (int)min;
+        }
+        else return (int)st.top();
     }
     
     int getMin() {
-        return mini.top();
+        return (int)min;
     }
 };
 
