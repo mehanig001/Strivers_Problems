@@ -24,7 +24,7 @@ public:
             st.push(i);
         }
 
-        rightSmaller[n-1] = -1;
+        rightSmaller[n-1] = n;
         while(!st.empty())st.pop();
 
         st.push(n-1);
@@ -34,7 +34,7 @@ public:
             }
 
             if(st.empty()){
-                rightSmaller[i] = -1;
+                rightSmaller[i] = n;
             }
             else{
                 rightSmaller[i] = st.top();
@@ -46,24 +46,17 @@ public:
         for(auto val : leftSmaller)cout<<val<<" ";cout<<endl;
         for(auto val : rightSmaller)cout<<val<<" ";cout<<endl;
 
-        // return 0;
+        
+        int maxi = 0;
 
-        for(int i=0;i<rightSmaller.size();i++){
-            if(rightSmaller[i] == -1){
-                rightSmaller[i] = rightSmaller.size();
-            }
+        for(int i = 0; i < n; i++){
+            int curr = (rightSmaller[i]-1 - (leftSmaller[i]+1) + 1) * heights[i];
+            maxi = max(maxi, curr);
         }
-        int maxi = INT_MIN;
-        for(int i=0;i<heights.size();i++){
-            int h = heights[i];
-            int width = rightSmaller[i] - leftSmaller[i] - 1;
-            if(h*width > maxi){
-                maxi = h*width;
-            }
-        }
+
 
         return maxi;
-
+        
 
 
        
