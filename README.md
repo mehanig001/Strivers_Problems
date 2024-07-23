@@ -156,6 +156,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/mehanig001/Strivers_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
