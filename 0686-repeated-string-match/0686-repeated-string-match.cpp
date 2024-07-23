@@ -1,16 +1,18 @@
 class Solution {
-
 public:
     int repeatedStringMatch(string a, string b) {
-        int rep = 0;
+        int rep = b.size() / a.size();
+        int count = 1;
         string x = a;
-        while(a.find(b) == string::npos){
-            a += x;
-            rep++;
+        while(count <= rep+2){
+            if((a).find(b) != string::npos){
+                return count;
+            }
+            else count++;
 
-            if(a.size() > 1e4)return -1;
+            a = a+x;
         }
 
-        return rep+1;
+        return -1;
     }
 };
