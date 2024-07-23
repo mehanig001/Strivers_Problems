@@ -160,6 +160,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+| [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,4 +242,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
