@@ -130,6 +130,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -252,5 +254,14 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
