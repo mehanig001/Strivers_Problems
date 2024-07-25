@@ -132,6 +132,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1803-average-waiting-time](https://github.com/mehanig001/Strivers_Problems/tree/master/1803-average-waiting-time) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 ## String
@@ -235,6 +237,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -256,12 +259,23 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
