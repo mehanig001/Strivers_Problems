@@ -26,9 +26,31 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
 
-        vector<vector<int>> dp(n, vector<int> (amount+1, -1));
+        // vector<vector<int>> dp(n, vector<int> (amount+1, 0));
 
-        int ans = f(n-1, amount, coins, dp);
+        vector<int> prev(amount+1,0), curr(amount+1,0);
+
+        for(int sum = 0; sum <= amount; sum++){
+            prev[sum] = (sum % coins[0] == 0) ? sum/coins[0] : 1e9;
+        }
+
+        for(int i = 1; i < n; i++){
+            for(int sum = 1; sum <= amount; sum++){
+
+                int take = 1e9;
+
+                if(coins[i] <= sum){
+                    take = 1 + curr[sum-coins[i]];
+                }
+
+                int notTake = prev[sum];
+
+                curr[sum] = min(take, notTake);
+            }
+            prev = curr;
+        }
+
+        int ans = prev[amount];
 
         return (ans == 1e9) ? -1 : ans;
     }
