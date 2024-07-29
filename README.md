@@ -155,6 +155,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 ## Design
