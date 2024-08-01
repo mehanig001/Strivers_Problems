@@ -150,6 +150,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
