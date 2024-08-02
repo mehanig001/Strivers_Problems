@@ -1,134 +1,125 @@
 string bin(int n){
     string ans = "";
     while(n){
-        ans += '0' + (n&1);
+        ans += char('0' + (n&1));
         n = n>>1;
     }
-    while(ans.size() < 32){
-        ans.push_back('0');
+    int x = ans.size();
+    for(int i = x+1; i <= 32; i++){
+        ans += '0';
     }
 
     reverse(ans.begin(), ans.end());
     return ans;
 }
 
-int decimal(string s){
+int binToInt(string str){
     int ans = 0;
-    for(int i = 0; i < 32; i++){
-        if(s[i] == '1'){
-            ans += (1 << (31-i));
-        }
+    int pow = 0;
+    for(int i = 31; i >= 0; i--){
+        pow = 1<<(31-i);
+        if(str[i] == '1')ans += pow;
     }
     return ans;
 }
 
-
-
 struct Node{
-    Node* arr[2];
-
-    bool contains(char &ch){
-        return arr[ch - '0'] != NULL;
+    Node* link[2];
+    
+    
+    bool contains(char ch){
+      
+        return link[ch-'0'] != NULL;
     }
-    Node* add(char &ch, Node *node){
-        arr[ch - '0'] = node;
+
+    Node* next(char ch){
+        return link[ch-'0'];
+    }
+    Node* add(char ch, Node *node){
+        link[ch-'0'] = node;
         return node;
     }
-
-    Node *next(char &ch){
-        return arr[ch - '0'];
+    bool isEmpty(){
+        return link[0] == NULL && link[1] == NULL;
     }
-
-	bool isEmpty(){
-		return (arr[0] == NULL && arr[1] == NULL);
-	}
 
 };
 
 class Trie{
-
-  private:
-    Node *root;
-
-  public:
-    Trie(){
-        root = new Node();
-    }
-
-
-    void insert(string str){
-        Node *node = root;
-        for(int i = 0; i < str.size(); i++){
-            if(!node->contains(str[i])){
-                node = node->add(str[i], new Node());
-            }
-            else node = node->next(str[i]);
+    private:
+        Node *root;
+    public:
+        Trie(){
+            root = new Node();
         }
-    }
-
-    int solve(string x){
-        string ans = "";
-		if(root->isEmpty())return -1;
-        Node *node = root;
-
-        for(int i = 0; i < x.size(); i++){
-            char flip = '1' - (x[i]) + '0';
-            if(node->contains(flip)){
-                ans += "1";
-                node = node->next(flip);
-            }
-            else{
-                ans += "0";
-                node = node->next(x[i]);
+        void insert(int n){
+            string str = bin(n);
+            Node *temp = root;
+            for(auto ch : str){
+                if(temp->contains(ch)){
+                    temp = temp->next(ch);
+                }
+                else{
+                    temp = temp->add(ch, new Node());
+                }
             }
         }
-		// cout<<ans<<endl;
 
-        return decimal(ans);
-    }
+        int findMaxXor(int x){
+            int ans = 0;
+            string str = bin(x);
+            if(root->isEmpty())return -1;
+            Node *temp = root;
 
+            string newstr = "";
+            for(auto ch : str){
+                char ulta = '0' + ('1'- ch);
+                // cout<<ulta<<endl;
+                if(temp->contains(ulta)){
+                    temp = temp->next(ulta);
+                    newstr += '1';
+                }
+                else{
+                    temp = temp->next(ch);
+                    newstr += '0';
+                }
+            }
+
+            return binToInt(newstr);
+
+        }
 };
+
 
 class Solution {
 public:
-    vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
-        int n = nums.size(), m = queries.size();
+    vector<int> maximizeXor(vector<int> nums, vector<vector<int>>& queries) {
+        sort(nums.begin(), nums.end());
+        vector<pair<int,pair<int,int>>> v(queries.size());
+        for(int i = 0; i < queries.size(); i++){
+            v[i].first = queries[i][1];
+            v[i].second.first = queries[i][0];
+            v[i].second.second = i;
 
-	vector<int> ans(m,-1);
-	Trie *t = new  Trie();
+        }
+        sort(v.begin(), v.end());
 
+        int k = 0;
+        Trie *tr = new Trie();
+        vector<int> ans(queries.size());
 
-	vector<int> v = nums;
-	sort(v.begin(), v.end());
-	
-	vector<pair<pair<int,int>,int>> vp(m);
-	for(int i = 0; i < m; i++){
-		vp[i].first.first = queries[i][1];
-		vp[i].first.second = queries[i][0];
-		vp[i].second = i;
-	}
-	sort(vp.begin(), vp.end());
+        
+        // cout<<binToInt(bin(717))<<endl;
 
+        for(int i = 0; i < v.size(); i++){
+            auto pr = v[i];
+            while(k < nums.size() && nums[k] <= pr.first){
+                tr->insert(nums[k]);
+                k++;
+            }
+            ans[pr.second.second] = tr->findMaxXor(pr.second.first);
 
-	int k = 0; //inserting idx of tries
-	for(int i = 0; i < m; i++){
-
-		int xi = vp[i].first.second;
-		int ai = vp[i].first.first;
-		int idx = vp[i].second;
-		
-
-		// cout<<xi<<" "<<ai<<" "<<idx<<" "<<k<<endl;
-
-
-		while(k < n && v[k] <= ai){
-			t->insert(bin(v[k]));
-			k++;
-		}
-
-		ans[idx] = t->solve(bin(xi));
-	}
-
-	return ans;
+        }
+        return ans;
     }
 };
