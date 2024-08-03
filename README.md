@@ -230,6 +230,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 ## Design
 |  |
