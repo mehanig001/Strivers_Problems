@@ -21,6 +21,5 @@ public:
         }while(fast && fast->next);
 
         return slow;
-
     }
 };
