@@ -159,6 +159,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -225,6 +227,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 ## Design
 |  |
