@@ -8,44 +8,46 @@
  */
 class Solution {
 public:
-    int sz(ListNode* head){
-        ListNode* temp = head;
-        int s = 0;
-        while(temp){
-            s++;
-            temp = temp->next;
-        }
-        return s;
-    }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        //Map ka use krke 1st wale ko visited kr denge for second k liye chk kr lenge
-
-        //O(1)
-        ListNode *i = headA;
-        ListNode *j = headB;
-
-        int a = sz(i);
-        int b = sz(j);
-
-        if(a < b){
-            swap(i,j);
-        }
-
-        int ct = abs(a-b);
-
-        while(ct){
-            i = i->next;
-            ct--;
-        }
-
+        //identify which chain is longer and difference in length
+        ListNode *i = headA, *j = headB;
         while(i && j){
-            if(i == j)return i;
             i = i->next;
             j = j->next;
         }
 
-        return NULL;
+        int diff = 0;
+        if(i){
+            while(i){
+                i = i->next;
+                diff++;
+            }
 
+            i = headA;
+            j = headB;
+            while(diff){
+                i = i->next;
+                diff--;
+            }
+        }
+        else{
+            while(j){
+                j = j->next;
+                diff++;
+            }
+            i = headA;
+            j = headB;
+            while(diff){
+                j = j->next;
+                diff--;
+            }
+        }
+        while(i && j && i != j){
+                i = i->next;
+                j = j->next;
+            }
+            if(i == j)return i;
+            else return NULL;
 
     }
 };
