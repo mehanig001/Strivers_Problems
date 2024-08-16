@@ -12,48 +12,37 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-
-        if(preorder.size() == 0)return NULL;
-
+        if(preorder.empty())return NULL;
         TreeNode* root = new TreeNode(preorder[0]);
-        int value = preorder[0];
-        vector<int> leftIn, rightIn;
-        int  idx = -1;
+        vector<int> inorderLeft;
+        vector<int> inorderRight;
+        bool flip = 1;
         for(int i = 0; i < inorder.size(); i++){
-            if(inorder[i] == value){
-                idx = i;
+            if(inorder[i] == preorder[0]){
+                flip = 1-flip;
                 continue;
             }
-            if(idx == -1)leftIn.push_back(inorder[i]);
-            else rightIn.push_back(inorder[i]);
+            if(flip)
+            inorderLeft.push_back(inorder[i]);
+            else inorderRight.push_back(inorder[i]);
         }
 
-        idx = -1;
-        for(int i = 0; i < preorder.size(); i++){
-            if(preorder[i] == value){
-                idx = i;
-                break;
+
+        vector<int> preorderLeft;
+        vector<int> preorderRight;
+        
+        int l = inorderLeft.size();
+        for(int i = 1; i < preorder.size(); i++){
+            if(i <= l){
+                preorderLeft.push_back(preorder[i]);
             }
-        }
-
-        vector<int> leftPre(leftIn.size());
-        int k = 0;
-        for(int j = idx+1; k < leftIn.size() ; j++,k++){
-            leftPre[k] = preorder[j];
+            else preorderRight.push_back(preorder[i]);
         }
 
 
-        vector<int> rightPre(rightIn.size());
-        k = 0;
-        for(int j = idx+1+leftIn.size(); k < rightIn.size() ; j++,k++){
-            rightPre[k] = preorder[j];
-        }
-
-        root->left = buildTree(leftPre,leftIn);
-        root->right = buildTree(rightPre,rightIn);
+        root->left = buildTree(preorderLeft, inorderLeft);
+        root->right = buildTree(preorderRight, inorderRight);
 
         return root;
-       
-        
     }
 };
