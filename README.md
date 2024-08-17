@@ -320,6 +320,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -329,5 +330,10 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
