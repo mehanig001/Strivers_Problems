@@ -3,25 +3,36 @@ class Solution {
 private:
     string expand(string s, int i, int j){
         string ans = "";
+        int n = s.size();
+        int len = (i == j);
 
-        while(i >= 0 && j < s.size() && s[i] == s[j]){
+        if(i == j){
             i--;
             j++;
         }
+        while(i >= 0 && j < n){
+            if(s[i] == s[j]){
+                len += 2;
+                i--;
+                j++;
+            }
+            else{
+                break;
+            }
+        }
+        ans = s.substr(i+1, (j-i-1));
 
-        return s.substr(i+1,j-i-1);
-
+        return ans;
     }
 public:
     string longestPalindrome(string s) {
         string ans = "";
-
         for(int i = 0; i < s.size(); i++){
+            string oddLen = expand(s, i, i);
+            string evenLen = expand(s, i, i+1);
 
-            string evenPal = expand(s, i, i+1);
-            if(ans.size() < evenPal.size())ans = evenPal;
-            string oddPal = expand(s,i,i);
-            if(ans.size() < oddPal.size())ans = oddPal;
+            if(oddLen.size() > ans.size())ans = oddLen;
+            if(evenLen.size() > ans.size())ans = evenLen;
 
         }
 
