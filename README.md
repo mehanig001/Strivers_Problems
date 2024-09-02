@@ -129,6 +129,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mehanig001/Strivers_Problems/tree/master/0198-house-robber) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 ## Data Stream
 |  |
