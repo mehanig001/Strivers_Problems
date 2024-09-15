@@ -134,6 +134,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mehanig001/Strivers_Problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
