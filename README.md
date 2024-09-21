@@ -329,6 +329,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Merge Sort
 |  |
@@ -345,6 +346,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
