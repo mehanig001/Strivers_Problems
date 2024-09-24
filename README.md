@@ -168,6 +168,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Breadth-First Search
 |  |
@@ -236,6 +238,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
