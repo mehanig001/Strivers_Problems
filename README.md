@@ -149,6 +149,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1803-average-waiting-time](https://github.com/mehanig001/Strivers_Problems/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -337,6 +340,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Merge Sort
 |  |
 | ------- |
