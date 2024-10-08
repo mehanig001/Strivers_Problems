@@ -205,6 +205,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Memoization
 |  |
 | ------- |
