@@ -146,6 +146,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mehanig001/Strivers_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mehanig001/Strivers_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
@@ -268,6 +270,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 ## Linked List
 |  |
 | ------- |
