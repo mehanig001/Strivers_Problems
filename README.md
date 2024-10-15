@@ -184,6 +184,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mehanig001/Strivers_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/mehanig001/Strivers_Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3195-separate-black-and-white-balls](https://github.com/mehanig001/Strivers_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Breadth-First Search
 |  |
@@ -244,6 +246,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/mehanig001/Strivers_Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
