@@ -149,6 +149,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mehanig001/Strivers_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1803-average-waiting-time](https://github.com/mehanig001/Strivers_Problems/tree/master/1803-average-waiting-time) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0148-sort-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -351,6 +354,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -419,6 +423,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Graph
 |  |
 | ------- |
