@@ -147,6 +147,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -272,6 +274,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/mehanig001/Strivers_Problems/tree/master/1002-maximum-width-ramp) |
 ## Linked List
@@ -354,6 +358,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
