@@ -145,6 +145,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mehanig001/Strivers_Problems/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/mehanig001/Strivers_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
@@ -238,6 +240,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
