@@ -178,6 +178,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2562-count-ways-to-build-good-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
