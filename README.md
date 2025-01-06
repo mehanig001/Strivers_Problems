@@ -156,6 +156,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1803-average-waiting-time](https://github.com/mehanig001/Strivers_Problems/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
