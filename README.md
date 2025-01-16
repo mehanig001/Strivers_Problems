@@ -163,6 +163,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mehanig001/Strivers_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
@@ -462,4 +464,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
