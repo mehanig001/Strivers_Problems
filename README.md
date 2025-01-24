@@ -247,6 +247,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
@@ -432,6 +433,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
@@ -471,4 +474,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
