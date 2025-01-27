@@ -249,6 +249,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
+| [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -434,6 +435,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +457,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |
@@ -478,4 +481,5 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
