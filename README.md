@@ -256,6 +256,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Memoization
 |  |
