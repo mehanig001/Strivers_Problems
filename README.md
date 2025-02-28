@@ -183,6 +183,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1170-shortest-common-supersequence](https://github.com/mehanig001/Strivers_Problems/tree/master/1170-shortest-common-supersequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -230,6 +231,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mehanig001/Strivers_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/mehanig001/Strivers_Problems/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mehanig001/Strivers_Problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
