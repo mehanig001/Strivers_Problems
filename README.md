@@ -168,6 +168,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mehanig001/Strivers_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -414,6 +415,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Trie
 |  |
 | ------- |
@@ -462,6 +464,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -486,4 +489,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
