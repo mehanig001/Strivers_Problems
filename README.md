@@ -169,6 +169,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mehanig001/Strivers_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mehanig001/Strivers_Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +386,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mehanig001/Strivers_Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Divide and Conquer
 |  |
 | ------- |
