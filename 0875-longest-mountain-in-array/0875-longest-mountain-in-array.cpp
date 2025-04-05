@@ -26,7 +26,7 @@ public:
             }
             if(x >= 2 && y >= 1)
                 ans = max(ans, x + y);
-            cout<<i<<" "<<x<<" "<<y<<endl;
+            // cout<<i<<" "<<x<<" "<<y<<endl;
         }
         if(ans < 3)return 0;
         return ans;
