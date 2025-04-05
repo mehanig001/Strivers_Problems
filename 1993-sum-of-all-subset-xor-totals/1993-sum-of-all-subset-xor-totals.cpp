@@ -1,17 +1,21 @@
 class Solution {
+    void f(int i, vector<int> &v, int curr, int &sum){
+        if(i == v.size()){
+            sum += curr;
+            return;
+        }
+        curr = curr ^ v[i];
+        // cout<<curr<<" ";
+        f(i+1, v, curr, sum);
+        curr = curr ^ v[i];
+        f(i+1, v, curr, sum);
+
+        return;
+    }
 public:
     int subsetXORSum(vector<int>& nums) {
-        int n=nums.size();
-        int sum{};
-        for(int i{};i<(1<<n);i++){
-            int x{};
-            for(int j{};j<n;j++){
-                if((i>>j)&1){
-                    x^=nums[j];
-                }
-            }
-            sum+=x;
-        }
-        return sum;
+        int ans = 0, curr = 0;
+        f(0, nums, curr, ans);
+        return ans;
     }
 };
