@@ -158,6 +158,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
@@ -284,6 +286,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Memoization
@@ -418,6 +421,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -485,6 +489,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
@@ -499,4 +504,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
