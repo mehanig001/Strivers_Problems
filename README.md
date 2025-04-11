@@ -128,6 +128,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/mehanig001/Strivers_Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
