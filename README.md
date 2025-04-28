@@ -164,6 +164,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -477,6 +479,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mehanig001/Strivers_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Graph
 |  |
@@ -494,6 +497,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
