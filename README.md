@@ -175,6 +175,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mehanig001/Strivers_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3639-zero-array-transformation-i](https://github.com/mehanig001/Strivers_Problems/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mehanig001/Strivers_Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -505,6 +506,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3639-zero-array-transformation-i](https://github.com/mehanig001/Strivers_Problems/tree/master/3639-zero-array-transformation-i) |
 ## Enumeration
 |  |
 | ------- |
