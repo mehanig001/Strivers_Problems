@@ -242,6 +242,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehanig001/Strivers_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/mehanig001/Strivers_Problems/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/mehanig001/Strivers_Problems/tree/master/0768-partition-labels) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/mehanig001/Strivers_Problems/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/mehanig001/Strivers_Problems/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mehanig001/Strivers_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -457,12 +460,14 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -473,6 +478,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
