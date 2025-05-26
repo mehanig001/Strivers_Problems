@@ -1,46 +1,47 @@
 class Solution {
-public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        //Another aproach other than path visited and dfs
-        //Using topoSort
+private:
+    bool dfs(int i, vector<bool> &visited, vector<bool> &pathVisited, vector<bool> &safeNodes, vector<vector<int>>& graph, int n){
+        visited[i] = 1;
+        pathVisited[i] = 1;
+        safeNodes[i] = 0;
 
-        int n = graph.size();
-        vector<int> adj[n];
-        //adding edges in reverse order
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < graph[i].size(); j++){
-                adj[graph[i][j]].push_back(i);
-            }
-        }
+        for(auto val : graph[i]){
 
-        vector<int> indegree(n);
-        for(int i = 0; i < n; i++){
-            for(auto val : adj[i]){
-                indegree[val]++;
-            }
-        }
-
-        queue<int> q;
-        vector<int> topo;
-
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0){
-                q.push(i);
-            }
-        }
-
-        while(!q.empty()){
-            int tp = q.front();
-            q.pop();
-            topo.push_back(tp);
-            for(auto val : adj[tp]){
-                indegree[val]--;
-                if(indegree[val] == 0){
-                    q.push(val);
+            if(!visited[val]){
+                if(dfs(val,visited,pathVisited,safeNodes,graph,n)){
+                    return true;
                 }
             }
+            else if(pathVisited[val]){
+                    return true;
+            }
         }
-        sort(topo.begin(), topo.end());
-        return topo;
+        
+        pathVisited[i] = 0;
+        safeNodes[i] = 1;
+        return false;
+    }
+public:
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n = graph.size();
+
+        vector<bool> visited(n,0);
+        vector<bool> pathVisited(n,0);
+        vector<bool> safeNodes(n,0);
+
+        for(int i = 0 ; i < n; i++){
+            if(!visited[i]){
+                dfs(i,visited,pathVisited,safeNodes,graph,n);
+            }
+        }
+
+        vector<int> ans;
+        for(int i = 0; i < n; i++){
+            if(safeNodes[i]){
+                ans.push_back(i);
+            }
+        }
+        return ans;
+
     }
 };
