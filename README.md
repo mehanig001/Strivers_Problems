@@ -194,6 +194,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0875-longest-mountain-in-array) |
 | [1170-shortest-common-supersequence](https://github.com/mehanig001/Strivers_Problems/tree/master/1170-shortest-common-supersequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -229,6 +230,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -435,6 +438,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0347-top-k-frequent-elements](https://github.com/mehanig001/Strivers_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mehanig001/Strivers_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Bit Manipulation
 |  |
@@ -499,6 +503,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
@@ -528,6 +533,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Union Find
 |  |
 | ------- |
