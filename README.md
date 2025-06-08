@@ -184,6 +184,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/mehanig001/Strivers_Problems/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mehanig001/Strivers_Problems/tree/master/0198-house-robber) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0008-string-to-integer-atoi](https://github.com/mehanig001/Strivers_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mehanig001/Strivers_Problems/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/mehanig001/Strivers_Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
