@@ -1,21 +1,15 @@
-class Solution {
-private:
-    int f(int i, int prev, vector<int> &nums, vector<vector<int>> &dp){
-        if(i == nums.size())return 0;
-        if(dp[i][prev+1] != -1)return dp[i][prev+1];
-
-        int take = 0;
-        if(prev == -1 || (nums[i] > nums[prev])){
-            take = 1 + f(i+1, i, nums, dp);
-        }
-        int notTake = f(i+1, prev, nums, dp);
-
-        return dp[i][prev+1] = max(take, notTake);
-    }
+class Solution { // 8 ms, faster than 91.61%
 public:
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int> (n+1, -1));
-        return f(0, -1, nums, dp);
+        vector<int> sub;
+        for (int x : nums) {
+            if (sub.empty() || sub[sub.size() - 1] < x) {
+                sub.push_back(x);
+            } else {
+                auto it = lower_bound(sub.begin(), sub.end(), x); // Find the index of the first element >= x
+                *it = x; // Replace that number with x
+            }
+        }
+        return sub.size();
     }
 };
