@@ -1,16 +1,22 @@
 class Solution {
 public:
-    bool isSafe(vector<vector<char>>& board, int row, int col, char k){
-        for(int i = 0; i < 9; i++){
-
-            if(i != row && board[i][col] == k)return false;
-            if(i != col && board[row][i] == k)return false;
-
-            int smallSqrow = 3*(row/3) + i/3;
-            int smallSqcol = 3*(col/3) + i%3;
-
-            if(smallSqrow != row && smallSqcol != col && board[smallSqrow][smallSqcol] == k)return false;
-
+    bool isSafe(vector<vector<char>> &board, int i, int j, char ch){
+        for(int row = 0; row < board.size(); row++){
+            if(board[row][j] == ch && i != row){
+                return false;
+            }
+        }
+        for(int col = 0; col < board[0].size(); col++){
+            if(board[i][col] == ch && j != col){
+                return false;
+            }
+        }
+        int matRow = (i/3)*3, matCol = (j/3)*3;
+        for(int k = 0; k < 3; k++){
+            for(int del = 0; del < 3; del++){
+                int ii = matRow + k, jj = matCol + del;
+                if(ii != i && jj != j && board[ii][jj] == ch)return false;
+            }
         }
         return true;
     }
