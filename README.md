@@ -130,6 +130,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/mehanig001/Strivers_Problems/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -391,6 +394,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
