@@ -325,6 +325,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/mehanig001/Strivers_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mehanig001/Strivers_Problems/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
@@ -490,6 +493,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mehanig001/Strivers_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
