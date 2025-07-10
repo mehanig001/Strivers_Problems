@@ -165,6 +165,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/2465-shifting-letters-ii) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0875-longest-mountain-in-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0875-longest-mountain-in-array) |
 | [1170-shortest-common-supersequence](https://github.com/mehanig001/Strivers_Problems/tree/master/1170-shortest-common-supersequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -300,6 +302,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehanig001/Strivers_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mehanig001/Strivers_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -456,6 +459,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mehanig001/Strivers_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mehanig001/Strivers_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mehanig001/Strivers_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -509,6 +513,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mehanig001/Strivers_Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mehanig001/Strivers_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Graph
@@ -556,4 +561,12 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
