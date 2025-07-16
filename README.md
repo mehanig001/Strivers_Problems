@@ -221,6 +221,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0008-string-to-integer-atoi](https://github.com/mehanig001/Strivers_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mehanig001/Strivers_Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mehanig001/Strivers_Problems/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/mehanig001/Strivers_Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mehanig001/Strivers_Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/mehanig001/Strivers_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehanig001/Strivers_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
