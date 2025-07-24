@@ -572,4 +572,8 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/mehanig001/Strivers_Problems/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
