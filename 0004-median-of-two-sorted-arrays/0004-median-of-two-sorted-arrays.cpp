@@ -11,39 +11,33 @@ public:
 
         ll si = 0;
         ll ei = n1; //n1 not n1-1 
-        ll i = si+(ei-si)/2;
-        
-        int ans;
+        double ans = 0;
 
-        while(si<=ei){
-            i = si+(ei-si)/2; //let i be mid always in v
-            
-            ll j = ((n1+n2+1)/2)-i; //so that no of elements in left are equal to right
+        while(si <= ei){
+            ll i = (si + ei)/2;
+            ll j = (n1+n2+1)/2 - i;
 
-            ll min1 = (i == n1)?INT_MAX*1LL : v[i];
-            ll max1 = (i == 0)?INT_MIN*1LL : v[i-1];
-            ll min2 = (j == n2)?INT_MAX*1LL : v2[j];
-            ll max2 = (j == 0)?INT_MIN*1LL : v2[j-1];
+            ll min1 = (i == n1) ? 1e12 : v[i];
+            ll min2 = (j == n2) ? 1e12 : v2[j];
+            ll max1 = (i-1 == -1) ? -1e12 : v[i-1];
+            ll max2 = (j-1 == -1) ? -1e12 : v2[j-1];
 
-            if(max1 <= min2 && max2 <= min1){
-                if((n1+n2)%2 == 0){
-                    ans = double((max(max1,max2)+min(min1,min2))/2.0);
-                    return double((max(max1,max2)+min(min1,min2))/2.0);
+            if(min2 >= max1 && min1 >= max2){
+                if((n1+n2)&1){
+                    return max({max1, max2});
                 }
                 else{
-                    ans = double(max(max1,max2));
-                    return double(max(max1,max2));
-
+                    cout<<min1<<" "<<min2<<" "<<max1<<" "<<max2<<endl;
+                    ans = (max(max1, max2) + min(min1, min2))/2.0;
+                    return ans;
                 }
             }
-            else if(max1 > min2){
-                ei = i-1;
-            }
-            else{
+            else if(min1 < max2){
                 si = i+1;
             }
-
+            else ei  = i-1;
         }
-    return ans;
+        
+        return ans;
     }
 };
