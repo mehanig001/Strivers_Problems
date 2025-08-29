@@ -315,6 +315,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/mehanig001/Strivers_Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mehanig001/Strivers_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Memoization
 |  |
