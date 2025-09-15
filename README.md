@@ -137,6 +137,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0084-largest-rectangle-in-histogram](https://github.com/mehanig001/Strivers_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehanig001/Strivers_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mehanig001/Strivers_Problems/tree/master/0198-house-robber) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/mehanig001/Strivers_Problems/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mehanig001/Strivers_Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/mehanig001/Strivers_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehanig001/Strivers_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mehanig001/Strivers_Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehanig001/Strivers_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -253,6 +256,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0115-distinct-subsequences](https://github.com/mehanig001/Strivers_Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mehanig001/Strivers_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mehanig001/Strivers_Problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehanig001/Strivers_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -321,6 +325,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mehanig001/Strivers_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Simulation
 |  |
@@ -471,6 +476,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mehanig001/Strivers_Problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/mehanig001/Strivers_Problems/tree/master/0386-lexicographical-numbers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/mehanig001/Strivers_Problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mehanig001/Strivers_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
