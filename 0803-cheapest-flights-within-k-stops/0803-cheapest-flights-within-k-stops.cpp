@@ -1,37 +1,37 @@
+#define pii pair<int, pair<int,int>>
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<pair<int,int>> adj[n];
-        for(int i = 0; i < flights.size(); i++){
-            adj[flights[i][0]].push_back({flights[i][1], flights[i][2]});
+        priority_queue<pii, vector<pii>, greater<pii>> pq;
+        pq.push({0, {0, src}});
+        int ans = 1e9;
+        vector<int> dist(n+1, 1e9);
+        vector<vector<pair<int,int>>> adj(n,vector<pair<int,int>>());
+        for(auto &it : flights){
+            adj[it[0]].push_back({it[1], it[2]});
         }
 
-        queue<pair<int, pair<int, int>>> q;
-        q.push({0, {src, 0}}); //stops, {node, dist}
-        vector<int> dist(n+1, 1e9);
-        dist[src] = 0;
+        while(!pq.empty()){
+            auto tp = pq.top();
+            pq.pop();
+            int stps = tp.first;
+            int cst = tp.second.first;
+            int node = tp.second.second;
+            if(stps > k+1)break;
+            if(node == dst){
+                ans = min(ans, cst);
+            }
 
-        while(!q.empty()){
-            auto pr = q.front();
-            q.pop();
-            int stops = pr.first;
-            int node = pr.second.first;
-            int dis = pr.second.second;
+            for(auto &it : adj[node]){
+                auto adjNode = it.first;
+                auto edgeWt = it.second;
 
-            for(auto it : adj[node]){
-                int adjNode = it.first;
-                int edgeWt = it.second;
-
-                if(stops <= k && dist[adjNode] > dis + edgeWt){
-                    dist[adjNode] = dis + edgeWt;
-                    q.push({stops+1, {adjNode, dist[adjNode]}});
+                if(dist[adjNode] > cst + edgeWt){
+                    dist[adjNode] = cst + edgeWt;
+                    pq.push({stps+1, {dist[adjNode], adjNode}});
                 }
             }
         }
-
-        for(auto val : dist)cout<<val<<" ";
-        cout<<endl;
-
-        return (dist[dst] == 1e9) ? -1 : dist[dst];
+        return (ans == 1e9) ? -1 : ans;  
     }
 };
