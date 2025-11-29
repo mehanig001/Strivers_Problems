@@ -501,6 +501,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mehanig001/Strivers_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mehanig001/Strivers_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mehanig001/Strivers_Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -512,6 +513,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehanig001/Strivers_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehanig001/Strivers_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mehanig001/Strivers_Problems/tree/master/1558-course-schedule-iv) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mehanig001/Strivers_Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
