@@ -164,6 +164,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehanig001/Strivers_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/mehanig001/Strivers_Problems/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mehanig001/Strivers_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehanig001/Strivers_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mehanig001/Strivers_Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehanig001/Strivers_Problems/tree/master/0070-climbing-stairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mehanig001/Strivers_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mehanig001/Strivers_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehanig001/Strivers_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mehanig001/Strivers_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mehanig001/Strivers_Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0037-sudoku-solver](https://github.com/mehanig001/Strivers_Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/mehanig001/Strivers_Problems/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/mehanig001/Strivers_Problems/tree/master/1036-rotting-oranges) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mehanig001/Strivers_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2145-grid-game](https://github.com/mehanig001/Strivers_Problems/tree/master/2145-grid-game) |
 ## Data Stream
 |  |
@@ -441,6 +444,7 @@ Collection of LeetCode questions  - Created using [LeetHub v2](https://github.co
 | [0780-max-chunks-to-make-sorted](https://github.com/mehanig001/Strivers_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehanig001/Strivers_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mehanig001/Strivers_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mehanig001/Strivers_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mehanig001/Strivers_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mehanig001/Strivers_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mehanig001/Strivers_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
